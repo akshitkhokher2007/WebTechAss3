@@ -1,11 +1,10 @@
 # Assignment #3 — Responsive Web Design
 ## Student information
 - **Name:** Akshit Khokher
-- **Group:** Replace with your group
+- **Group:** IT-2504
 - **Course:** Front-End Development
 - **Topics:** CSS Media Queries and Bootstrap 5 Grid
 
-> Before submitting, replace the group and contact details in `index.html` and this README with your real information.
 
 ## Project overview
 This project completes the five tasks in Assignment #3. It uses basic HTML and CSS plus Bootstrap 5. The page is designed to adjust to mobile, tablet, and desktop screens.
