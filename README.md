@@ -31,7 +31,6 @@ Three boxes are created using CSS Grid, without Bootstrap:
 - Tablet: two boxes in the first row and the third on the next row.
 - Mobile: boxes stack vertically.
 
-**Screenshot:** Save a desktop and mobile screenshot as `screenshots/task-1-desktop.png` and `screenshots/task-1-mobile.png`.
 
 ## Part 2 — Bootstrap Grid System
 
@@ -41,12 +40,11 @@ The three columns use Bootstrap's 12-column grid:
 - `col-md-6`: two half-width columns per row on tablet.
 - `col-lg-4`: three equal columns on desktop (4 + 4 + 4 = 12).
 
-**Screenshot:** Save a desktop and mobile screenshot as `screenshots/task-2-desktop.png` and `screenshots/task-2-mobile.png`.
+
 
 ### Task 3: Bootstrap Navigation Bar
 The navbar uses Bootstrap 5 components. The logo is on the left and links are on the right on larger screens. The navbar toggler collapses the links into a hamburger menu on smaller screens. Bootstrap's JavaScript bundle powers the menu.
 
-**Screenshot:** Save desktop and mobile navbar screenshots as `screenshots/task-3-desktop.png` and `screenshots/task-3-mobile.png`.
 
 ## Part 3 — Combined Project
 
@@ -60,7 +58,6 @@ The portfolio combines:
 
 On small screens the columns stack, spacing is reduced, and the decorative menu explainer icon is hidden on very narrow screens.
 
-**Screenshot:** Save a desktop and mobile full-page screenshot as `screenshots/task-4-desktop.png` and `screenshots/task-4-mobile.png`.
 
 ## Summary of work process
 First, I created the HTML structure for each assignment task. Next, I added CSS media queries for responsive typography and the CSS-only three-box layout. I used Bootstrap 5's 12-column grid for the three responsive columns, then created a collapsible navbar. Finally, I combined these components into a portfolio page with project cards, a student-information sidebar, and a footer. I tested the layout by resizing the browser and checking the mobile, tablet, and desktop breakpoints.
@@ -70,10 +67,3 @@ First, I created the HTML structure for each assignment task. Next, I added CSS 
 - `style.css` — styling and responsive media queries.
 - `screenshots/` — add screenshots for each task here.
 
-## GitHub submission checklist
-- [ ] Replace the group and contact placeholders with your own information.
-- [ ] Open `index.html` and test it at mobile, tablet, and desktop widths.
-- [ ] Add the required screenshots to `screenshots/` and link/show them below each task if required by your instructor.
-- [ ] Upload all project files to a **public** GitHub repository.
-- [ ] Submit the public repository URL through the course platform.
-- [ ] Be ready to explain media queries, Bootstrap breakpoints, and the 12-column grid during the mandatory defence.
